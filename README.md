@@ -1,4 +1,4 @@
-# PDFFetchX
+# GooglePDF-FETCHX
 
 A tool to fetch protected PDFs from Google Drive.
 
