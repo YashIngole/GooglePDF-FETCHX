@@ -16,6 +16,7 @@ A tool to fetch protected PDFs from Google Drive.
 
 1. **Open the PDF:**
    - First, open the PDF in your web browser.
+   - Zoom in as much as possible to ensure the best quality for the downloaded PDF.
    - Scroll through the entire document to ensure all pages are loaded. Go to the last page to make sure everything is fully loaded.
 
 2. **Open the Console:**
